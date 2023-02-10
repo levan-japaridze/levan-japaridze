@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 🍷
 
 I am a highly motivated software engineer with a passion for software development and a love for cooking. I have been working in the software industry for several years and have a proven track record of delivering high-quality software solutions on time and within budget.
 
