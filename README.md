@@ -6,7 +6,11 @@ As a lifelong learner, I am always looking for new challenges to take on, and I 
 
 In my free time, I enjoy cooking and experimenting with new recipes. I find cooking to be a relaxing and rewarding hobby that allows me to express my creativity and improve my attention to detail. Just like in software development, cooking requires precise measurements and the ability to problem-solve in real-time, making it an excellent complement to my technical skills.
 
-My skills and experience include:Extensive experience in software development using languages such as Python, Java, and C++Strong knowledge of data structures, algorithms, and software design patternsFamiliarity with Agile software development methodologies such as Scrum and KanbanAbility to work collaboratively in a team environment, both in-person and remotely
+My skills and experience include:
+ - Extensive experience in software development using languages such as Python, Java, and C++
+ - Strong knowledge of data structures, algorithms, and software design patterns
+ - Familiarity with Agile software development methodologies such as Scrum and Kanban
+ - Ability to work collaboratively in a team environment, both in-person and remotely
 
 If you are looking for a software engineer who is passionate about development, highly motivated to succeed, and always eager to learn, I would love to hear from you. I am confident that my combination of technical expertise and positive attitude would make me an excellent addition to your team.
 Thank you for considering my application. I look forward to the opportunity to further discuss my qualifications and how I can contribute to your organization.
