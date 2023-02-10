@@ -13,6 +13,7 @@ My skills and experience include:
  - Ability to work collaboratively in a team environment, both in-person and remotely
 
 If you are looking for a software engineer who is passionate about development, highly motivated to succeed, and always eager to learn, I would love to hear from you. I am confident that my combination of technical expertise and positive attitude would make me an excellent addition to your team.
+
 Thank you for considering my application. I look forward to the opportunity to further discuss my qualifications and how I can contribute to your organization.
 
 <!--
