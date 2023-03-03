@@ -16,6 +16,8 @@ If you are looking for a software engineer who is passionate about development, 
 
 Thank you for considering my application. I look forward to the opportunity to further discuss my qualifications and how I can contribute to your organization.
 
+[Follow me on Twitter](https://twitter.com/levanjaparidze6)
+
 <!--
 **levan-japaridze/levan-japaridze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
